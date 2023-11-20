@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:title="Trang chủ"
+        android:icon="@drawable/ic_home_black"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:title="Tìm kiếm"
+        android:icon="@drawable/ic_search_black"/>
+
+    <item
+        android:id="@+id/action_new_recipe"
+        android:title="Bài đăng"
+        android:icon="@drawable/ic_add_black"/>
+
+    <item
+        android:id="@+id/action_shopping"
+        android:title="Mua sắm"
+        android:icon="@drawable/ic_shopping_black"/>
+
+    <item
+        android:id="@+id/action_profile"
+        android:title="Tài khoản"
+        android:icon="@drawable/ic_management"/>
+
+</menu>

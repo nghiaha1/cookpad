@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/miUpload"
+        android:icon="@drawable/ic_upload"
+        app:showAsAction="ifRoom"
+        android:title="Upload"
+        app:actionViewClass="android.support.v7.widget.AppCompatButton"/>
+    <item
+        android:id="@+id/miSave"
+        android:icon="@drawable/ic_save"
+        app:showAsAction="ifRoom"
+        android:title="Save"
+        app:actionViewClass="android.support.v7.widget.AppCompatButton">
+    </item>
+
+</menu>
